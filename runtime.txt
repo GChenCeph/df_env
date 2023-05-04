@@ -1,0 +1,9 @@
+The time of execution of SVD is : 1091.9461250305176 ms
+
+The time of execution of Bayesian Regression is : 1281.991720199585 ms
+
+The time of execution of Random Forest is : 179321.77257537842 ms
+
+The time of execution of KNNImputer is : 800.3494739532471 ms
+
+The time of execution of MICE is : 1784.0008735656738 ms
